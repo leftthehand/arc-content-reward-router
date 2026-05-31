@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcContentRewardRouter",
+  "address": "0x1C465867207cd4e38c888C3C28e2F17EEB85d3Cd",
+  "txHash": "0x961a1e600e1b1860ea88ff9119f1f40c0933211c5aadca9e202d0d80014f7334",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
